@@ -32,6 +32,9 @@ public class HolaMundo {
         
         saludar(nombre, veces);
         imprimirMes(mesnum);
+        
+        saludar("Catherin", 10);
+        //Cambios que hice en Netbeans
     }
     
     static void saludar(String nombre, int veces){
